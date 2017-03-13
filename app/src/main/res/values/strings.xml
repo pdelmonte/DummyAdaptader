@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DummyAdaptader</string>
+    <string name="tv_title_row_text">A title</string>
+    <string name="tv_body_row_text">A body</string>
+</resources>
